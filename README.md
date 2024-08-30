@@ -33,7 +33,7 @@ python simply_vote_parser.py --input data.csv --output parsed_results.json
 
 ## Repository Status
 
-This project is no longer maintained and has been archived. Feel free to fork it and modify it as needed. For any new projects or updates, please consider creating a new repository.
+This project is no longer maintained and has been archived.
 
 ## License
 
@@ -41,12 +41,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 
-Since this repository is archived, contributions are no longer accepted. However, you are welcome to fork the repository and continue development on your own.
-
-## Acknowledgements
-
-Special thanks to everyone who contributed to the development and maintenance of this tool.
-
----
-
-**Note:** This project is provided "as-is" without any warranties. No further support will be provided.
+Since this repository is archived, contributions are no longer accepted.
